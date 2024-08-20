@@ -1,0 +1,16 @@
+html, body{
+height: 100%;
+width: 100%;
+}
+
+.left img{
+    width: 130px;
+}
+nav{
+    padding: 0 120px;
+}
+
+nav ul li{
+    list-style: none;
+    padding: 0 12px;
+}
